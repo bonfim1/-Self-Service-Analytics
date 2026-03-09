@@ -1,101 +1,101 @@
 id_imovel,id_proprietario,nome_proprietario,cpf,endereco,bairro,cidade,data_anuncio,tipo_imovel,metragem,quartos,banheiros,valor,valor_iptu,sistema_origem
-1,P003,ANA PEREIRA,323.338.617-87,Rua W 167,Vila Mariana,Sao Paulo,09-01-2023,casa,165,3,1,729895,1212,Planilha
-2,P003,Carla Dias,51025702129,Rua S 50,centro,Sao Paulo,05/01/2023,Loft,150,3,1,689004,3317,Planilha
-3,P011,Ana Pereira,350.267.573-58,Rua V 84,Centro,Sao Paulo,2023-01-15,Loft,123m2,3,4,"1.790.113,00","5808,00",API
-4,P009,CARLOS LIMA,64045862384,Rua H 36,Itaim,Sao Paulo,2023-01-31,Loft,-,1,2,2393927,"4258,00",Planilha
-5,P008,Carla Dias,24345944431,Rua N 41,Itaim,Sao Paulo,2023/01/13,casa,-,2,1,1354507,594,API
-6,P024,Daniel Moraes,951.926.414-40,Rua C 188,Itaim,Sao Paulo,05/01/2023,apartamento,-,-,4,2524464,"4502,00",Não informado
-7,P034,JULIANA COSTA,353.330.165-53,Rua S 57,Centro,Sao Paulo,2023-01-28,apartamento,-,1,1,1143688,5823,API
-8,P031,Carlos Lima,59095990995,Rua N 120,Centro,SAO PAULO,2023-01-09,Apartamento,-,4,3,854956,5220,CRM
-9,P036,FERNANDA ALVES,767.653.956-11,Rua F 105,Itaim,SÃ£o Paulo,18/01/2023,Loft,111m2,4,1,"1.069.604,00",1117,Planilha
-10,P032,RODRIGO MENDES,403.322.159-84,Rua X 81,Centro,Sao Paulo,13-01-2023,casa,272m2,5,2,2074221,5052,CRM
-11,P039,DANIEL MORAES,81147107891,Rua I 53,Jardins,Sao Paulo,2023/01/06,Casa,-,2,3,1286516,"5166,00",Não informado
-12,P033,Lucas Martins,32698848018,Rua R 181,Pinheiros,SAO PAULO,2023-01-30,Cobertura,44m2,5,3,2905330,1100,CRM
-13,P017,PEDRO SANTOS,68558805795,Rua B 1,Jardins,Sao Paulo,2023/01/29,apartamento,119m2,-,4,1481771,2167,Não informado
-14,P003,Carla Dias,57686135491,Rua T 192,Moema,Sao Paulo,04/01/2023,Loft,-,2,4,451112,1713,CRM
-15,P015,Juliana Costa,571.458.412-39,Rua M 85,Pinheiros,Sao Paulo,2023/01/11,Apto,167m2,-,4,"967.724,00",817,Não informado
-16,P021,Lucas Martins,623.218.494-83,Rua W 112,Centro,SAO PAULO,04/01/2023,Apto,-,4,1,-1413446,5387,API
-17,P013,Gabriela Lima,89953027759,Rua M 141,Centro,SÃ£o Paulo,2023/01/28,apartamento,-,4,3,1597233,2922,Não informado
-18,P016,Marcos Oliveira,330.925.303-28,Rua P 157,centro,SÃ£o Paulo,07-01-2023,Cobertura,-,5,2,655658,5572,Não informado
-19,P036,Helena Prado,73571600239,Rua Y 114,Vila Mariana,SAO PAULO,05-01-2023,apartamento,94m2,-,4,-1217886,4743,Não informado
-20,P022,Bruno Rocha,653.182.241-29,Rua W 55,centro,SÃ£o Paulo,27-01-2023,Apto,-,5,4,"1.303.469,00","2840,00",Não informado
-21,P027,MARIA SOUZA,43920841446,Rua H 70,Vila Mariana,SÃ£o Paulo,2023-01-14,Casa,-,3,4,1895433,2946,Planilha
-22,P030,Marcos Oliveira,54902591705,Rua Y 98,Pinheiros,SÃ£o Paulo,2023/01/20,Loft,-,1,4,"2.667.231,00","4011,00",CRM
-23,P013,CAMILA FREITAS,736.256.344-26,Rua O 180,Pinheiros,SÃ£o Paulo,31/01/2023,casa,-,5,1,587806,754,Planilha
-24,P020,PATRICIA GOMES,17656360518,Rua R 110,Jardins,Sao Paulo,2023/01/01,Apartamento,232m2,4,4,-1131855,"5638,00",CRM
-25,P035,Carla Dias,576.546.945-85,Rua C 72,Itaim,Sao Paulo,21-01-2023,casa,118m2,5,4,1038771,2712,API
-26,P018,JoÃ£o Almeida,68927271989,Rua R 195,Moema,SAO PAULO,11-01-2023,Cobertura,133,-,4,1788243,5383,Não informado
-27,P036,JOÃO ALMEIDA,819.564.377-49,Rua X 50,Jardins,Sao Paulo,08/01/2023,apartamento,164m2,2,4,2739220,3316,API
-28,P009,Rafael Nunes,31234703205,Rua D 4,Pinheiros,SÃ£o Paulo,17-01-2023,Casa,184,3,2,"1.542.547,00",615,CRM
-29,P010,Bruno Rocha,83523189616,Rua T 153,Moema,SAO PAULO,16-01-2023,Casa,73m2,4,3,-2362534,5656,Não informado
-30,P036,Carla Dias,76974909090,Rua B 60,Pinheiros,SAO PAULO,2023/01/20,Cobertura,70,4,1,2923600,"1786,00",Planilha
-31,P005,Bruno Rocha,52611197462,Rua D 120,Pinheiros,SAO PAULO,21-01-2023,Apto,141,5,4,"2.584.060,00",2676,Não informado
-32,P037,Carlos Lima,121.883.788-44,Rua P 133,Itaim,SÃ£o Paulo,29/01/2023,casa,-,4,4,-1350119,2375,CRM
-33,P036,Helena Prado,190.422.358-51,Rua V 139,Itaim,SÃ£o Paulo,2023-01-11,apartamento,204,5,3,1683296,5927,Não informado
-34,P032,Helena Prado,34523330506,Rua R 4,Vila Mariana,Sao Paulo,25/01/2023,Loft,144m2,1,4,-2603594,2859,CRM
-35,P036,Pedro Santos,22300902025,Rua Y 107,Jardins,SAO PAULO,2023/01/23,Loft,-,1,3,1446827,"4368,00",API
-36,P021,Rafael Nunes,814.344.685-59,Rua K 191,Itaim,SAO PAULO,22-01-2023,Casa,116m2,-,2,2558970,4951,Não informado
-37,P010,MARIA SOUZA,900.371.446-89,Rua K 173,Vila Mariana,SÃ£o Paulo,31-01-2023,Loft,91m2,5,1,718221,1680,Não informado
-38,P007,CARLOS LIMA,48895735906,Rua L 111,Moema,Sao Paulo,22-01-2023,casa,-,-,2,"679.078,00",5691,Planilha
-39,P030,JULIANA COSTA,109.923.576-46,Rua C 114,Jardins,SAO PAULO,2023/01/28,Cobertura,163m2,4,3,-2745938,4277,Não informado
-40,P026,PATRICIA GOMES,95515448654,Rua J 199,Moema,SAO PAULO,2023/01/13,apartamento,287,-,2,1899557,"2918,00",Não informado
-41,P009,Bruno Rocha,402.434.865-63,Rua Z 139,Jardins,SAO PAULO,2023/01/24,Loft,-,2,3,465350,5247,Não informado
-42,P036,Patricia Gomes,25189462425,Rua L 173,Pinheiros,SAO PAULO,11-01-2023,Loft,98,-,3,"890.377,00",3755,CRM
-43,P008,Fernanda Alves,138.411.604-24,Rua M 117,Jardins,SAO PAULO,20-01-2023,casa,-,-,2,565151,2975,Não informado
-44,P007,Ana Pereira,61799668213,Rua G 32,Itaim,Sao Paulo,20/01/2023,Cobertura,248,-,1,1854115,2434,CRM
-45,P010,LUCAS MARTINS,31421266678,Rua Z 45,centro,SAO PAULO,2023-01-05,apartamento,-,1,3,1168880,2408,Planilha
-46,P024,Rafael Nunes,211.562.615-38,Rua X 169,Pinheiros,SÃ£o Paulo,2023-01-06,Apartamento,175,4,4,2065636,4401,Não informado
-47,P038,Ana Pereira,71396118332,Rua D 180,centro,SAO PAULO,30/01/2023,Casa,267,4,2,"1.651.034,00",2752,Não informado
-48,P031,Lucas Martins,951.187.195-65,Rua R 16,Jardins,SAO PAULO,2023-01-13,Casa,88m2,3,4,"2.089.977,00",1750,CRM
-49,P036,Patricia Gomes,880.385.687-38,Rua T 169,Pinheiros,Sao Paulo,12/01/2023,Apto,93,-,3,"948.985,00",1386,API
-50,P014,AMANDA SOUZA,564.449.261-57,Rua B 40,Moema,SAO PAULO,2023-01-28,Cobertura,113,1,3,895065,1251,Não informado
-51,P038,Carla Dias,783.415.146-38,Rua G 78,Moema,Sao Paulo,2023/01/15,Apto,252,3,1,-2448936,"4021,00",CRM
-52,P003,Helena Prado,68307441616,Rua W 164,Vila Mariana,SÃ£o Paulo,2023-01-06,Casa,-,1,3,1265154,"3401,00",Planilha
-53,P020,Gabriela Lima,326.441.897-31,Rua Q 131,Moema,SÃ£o Paulo,2023/01/23,Cobertura,85m2,-,2,744022,"4792,00",Planilha
-54,P037,ANA PEREIRA,55631973575,Rua E 113,centro,SÃ£o Paulo,07-01-2023,Cobertura,-,3,3,-616054,5644,Não informado
-55,P006,Maria Souza,18142728726,Rua Z 147,Moema,SÃ£o Paulo,03-01-2023,casa,276m2,2,1,-457736,"2851,00",Não informado
-56,P034,Ana Pereira,67498516318,Rua V 154,Centro,SAO PAULO,2023/01/27,Apartamento,-,3,1,-1023764,4086,Não informado
-57,P026,RODRIGO MENDES,97517171228,Rua E 172,centro,SAO PAULO,24-01-2023,casa,116,3,1,2744186,3041,API
-58,P007,PATRICIA GOMES,652.955.856-77,Rua T 97,Moema,Sao Paulo,07/01/2023,Loft,214,-,2,"1.250.190,00",2923,Não informado
-59,P020,Maria Souza,91377304419,Rua O 197,Pinheiros,SÃ£o Paulo,22-01-2023,apartamento,-,2,2,1495074,2416,API
-60,P033,Maria Souza,547.193.327-67,Rua N 14,Vila Mariana,SAO PAULO,2023/01/28,apartamento,-,4,1,"2.463.880,00","1813,00",API
-61,P009,FERNANDA ALVES,580.559.730-10,Rua I 56,Moema,SAO PAULO,30-01-2023,Apartamento,90,3,2,-877134,4370,API
-62,P010,ANA PEREIRA,101.729.461-40,Rua V 172,centro,SAO PAULO,2023/01/14,Apartamento,274,5,1,"2.396.435,00",4721,Não informado
-63,P007,HELENA PRADO,57435060578,Rua U 45,Itaim,SAO PAULO,13-01-2023,Cobertura,-,2,2,"368.124,00",2475,CRM
-64,P003,MARCOS OLIVEIRA,99617921191,Rua I 32,Jardins,SÃ£o Paulo,07-01-2023,Cobertura,62,4,4,1623704,4948,API
-65,P012,Juliana Costa,51493332116,Rua O 155,Vila Mariana,Sao Paulo,16-01-2023,Apto,228,4,1,-2080480,5435,API
-66,P010,Gabriela Lima,794.900.548-14,Rua Y 166,Jardins,SÃ£o Paulo,09-01-2023,casa,-,1,2,2973921,1810,Não informado
-67,P002,Amanda Souza,44865518008,Rua W 115,Moema,SAO PAULO,2023/01/25,Cobertura,-,4,2,1839099,2544,CRM
-68,P020,Pedro Santos,828.826.817-91,Rua D 52,Moema,Sao Paulo,15-01-2023,Apartamento,128,3,3,1640448,5005,Não informado
-69,P027,CAMILA FREITAS,70448078471,Rua V 133,Jardins,Sao Paulo,29/01/2023,Loft,73m2,2,4,1970003,4806,Não informado
-70,P034,Maria Souza,966.180.356-35,Rua U 78,centro,SAO PAULO,17/01/2023,casa,118,5,2,979338,3334,Planilha
-71,P017,Gabriela Lima,12744446292,Rua U 140,Pinheiros,SAO PAULO,2023/01/20,Casa,212,2,4,-640673,5754,API
-72,P021,MARCOS OLIVEIRA,981.453.508-26,Rua K 62,Itaim,Sao Paulo,2023/01/02,Casa,265m2,2,2,2331096,1676,CRM
-73,P032,MARIA SOUZA,18689476052,Rua Q 118,Moema,Sao Paulo,2023/01/13,Apartamento,254,1,3,1673365,2055,Não informado
-74,P026,Gabriela Lima,58080678409,Rua C 99,Itaim,SAO PAULO,2023/01/21,Loft,-,5,1,334298,2666,Planilha
-75,P009,Ana Pereira,923.585.631-68,Rua K 157,Jardins,Sao Paulo,26-01-2023,casa,213,-,3,1134909,"829,00",Não informado
-76,P002,Lucas Martins,371.771.901-84,Rua S 123,Moema,SAO PAULO,17-01-2023,apartamento,193m2,-,2,369780,3912,CRM
-77,P040,Rafael Nunes,993.968.853-17,Rua R 84,Itaim,SAO PAULO,04-01-2023,Apto,49m2,2,4,1615721,2170,Não informado
-78,P014,Lucas Martins,47459263293,Rua D 147,Vila Mariana,SÃ£o Paulo,2023/01/22,Loft,175,2,3,"1.333.976,00",2938,CRM
-79,P036,Patricia Gomes,240.211.730-85,Rua V 136,Moema,SAO PAULO,03/01/2023,Apartamento,-,1,4,"1.375.603,00","4912,00",API
-80,P013,HELENA PRADO,394.428.392-92,Rua R 190,Centro,Sao Paulo,25-01-2023,Loft,-,2,1,962452,4396,Não informado
-81,P035,HELENA PRADO,237.971.616-69,Rua K 42,Itaim,SAO PAULO,2023/01/24,Cobertura,188,2,1,"1.551.547,00","3244,00",API
-82,P026,Patricia Gomes,289.243.588-51,Rua I 99,Moema,SÃ£o Paulo,2023/01/25,Apto,-,3,1,2979010,4721,API
-83,P019,Amanda Souza,70787469138,Rua N 180,Itaim,SAO PAULO,02/01/2023,Loft,278m2,2,1,969900,3047,Não informado
-84,P021,Marcos Oliveira,90388550541,Rua C 131,Itaim,Sao Paulo,12-01-2023,apartamento,79,5,4,"2.597.007,00","4896,00",Não informado
-85,P028,RAFAEL NUNES,16322497674,Rua N 47,Moema,SAO PAULO,15-01-2023,Apto,51m2,4,4,1367270,"5237,00",Não informado
-86,P015,RODRIGO MENDES,68172949777,Rua H 64,Itaim,SÃ£o Paulo,31/01/2023,Apto,108,2,1,1048572,1543,CRM
-87,P004,Carla Dias,145.511.549-39,Rua E 129,Pinheiros,Sao Paulo,2023/01/30,casa,48,5,3,-582238,775,Planilha
-88,P012,Patricia Gomes,61420595035,Rua Z 135,Jardins,SAO PAULO,22-01-2023,Casa,251m2,2,3,-1454079,5346,Não informado
-89,P027,Juliana Costa,237.497.348-42,Rua O 95,centro,SAO PAULO,16/01/2023,Apartamento,155m2,3,4,905455,5107,Não informado
-90,P013,GABRIELA LIMA,220.864.872-71,Rua M 62,Jardins,SÃ£o Paulo,03-01-2023,Casa,151m2,5,3,1176144,"625,00",API
-91,P027,Bruno Rocha,44429402313,Rua J 40,Moema,SÃ£o Paulo,29/01/2023,Casa,294,5,2,2269185,2164,Não informado
-92,P035,Camila Freitas,655.757.160-77,Rua Y 2,Vila Mariana,Sao Paulo,22/01/2023,Apartamento,171m2,-,2,2991461,"3385,00",CRM
-93,P001,Roberto Dias,78793103630,Rua Z 46,centro,Sao Paulo,12/01/2023,apartamento,-,2,3,-2346209,4859,API
-94,P006,Bruno Rocha,61941189153,Rua M 142,Itaim,Sao Paulo,2023-01-03,Cobertura,247m2,2,1,2669790,2957,Não informado
-95,P003,Carla Dias,800.387.656-82,Rua K 5,Moema,SAO PAULO,11/01/2023,Loft,88,-,4,1186747,5143,CRM
-96,P023,PATRICIA GOMES,93067213321,Rua Y 84,Centro,SAO PAULO,2023/01/08,Loft,209m2,4,4,886995,1142,Planilha
-97,P016,Amanda Souza,29902452765,Rua K 93,centro,Sao Paulo,2023-01-13,Apto,-,4,3,"2.757.338,00","5567,00",API
-98,P006,ANA PEREIRA,48707708214,Rua M 200,centro,SAO PAULO,06/01/2023,casa,-,5,2,"2.626.748,00",1234,Não informado
-99,P031,JULIANA COSTA,469.357.352-90,Rua O 28,Moema,SÃ£o Paulo,2023-01-10,Casa,177,3,4,-565361,2760,API
-100,P026,Marcos Oliveira,53990877390,Rua I 101,Jardins,Sao Paulo,27/01/2023,casa,193m2,5,2,"2.830.051,00","3073,00",Não informado
+1,P003,Ana Pereira,323.338.617-87,Rua W 167,Vila Mariana,Sao Paulo,09-01-2023,Casa,165,3,1,729895,1212,Planilha
+2,P003,Carla Dias,51025702129,Rua S 50,Centro,Sao Paulo,05/01/2023,Loft,150,3,1,689004,3317,Planilha
+3,P011,Ana Pereira,350.267.573-58,Rua V 84,Centro,Sao Paulo,2023-01-15,Loft,123M2,3,4,"1.790.113,00","5808,00",Api
+4,P009,Carlos Lima,64045862384,Rua H 36,Itaim,Sao Paulo,2023-01-31,Loft,-,1,2,2393927,"4258,00",Planilha
+5,P008,Carla Dias,24345944431,Rua N 41,Itaim,Sao Paulo,2023/01/13,Casa,-,2,1,1354507,594,Api
+6,P024,Daniel Moraes,951.926.414-40,Rua C 188,Itaim,Sao Paulo,05/01/2023,Apartamento,-,-,4,2524464,"4502,00",
+7,P034,Juliana Costa,353.330.165-53,Rua S 57,Centro,Sao Paulo,2023-01-28,Apartamento,-,1,1,1143688,5823,Api
+8,P031,Carlos Lima,59095990995,Rua N 120,Centro,Sao Paulo,2023-01-09,Apartamento,-,4,3,854956,5220,Crm
+9,P036,Fernanda Alves,767.653.956-11,Rua F 105,Itaim,Sã£O Paulo,18/01/2023,Loft,111M2,4,1,"1.069.604,00",1117,Planilha
+10,P032,Rodrigo Mendes,403.322.159-84,Rua X 81,Centro,Sao Paulo,13-01-2023,Casa,272M2,5,2,2074221,5052,Crm
+11,P039,Daniel Moraes,81147107891,Rua I 53,Jardins,Sao Paulo,2023/01/06,Casa,-,2,3,1286516,"5166,00",
+12,P033,Lucas Martins,32698848018,Rua R 181,Pinheiros,Sao Paulo,2023-01-30,Cobertura,44M2,5,3,2905330,1100,Crm
+13,P017,Pedro Santos,68558805795,Rua B 1,Jardins,Sao Paulo,2023/01/29,Apartamento,119M2,-,4,1481771,2167,
+14,P003,Carla Dias,57686135491,Rua T 192,Moema,Sao Paulo,04/01/2023,Loft,-,2,4,451112,1713,Crm
+15,P015,Juliana Costa,571.458.412-39,Rua M 85,Pinheiros,Sao Paulo,2023/01/11,Apto,167M2,-,4,"967.724,00",817,
+16,P021,Lucas Martins,623.218.494-83,Rua W 112,Centro,Sao Paulo,04/01/2023,Apto,-,4,1,-1413446,5387,Api
+17,P013,Gabriela Lima,89953027759,Rua M 141,Centro,Sã£O Paulo,2023/01/28,Apartamento,-,4,3,1597233,2922,
+18,P016,Marcos Oliveira,330.925.303-28,Rua P 157,Centro,Sã£O Paulo,07-01-2023,Cobertura,-,5,2,655658,5572,
+19,P036,Helena Prado,73571600239,Rua Y 114,Vila Mariana,Sao Paulo,05-01-2023,Apartamento,94M2,-,4,-1217886,4743,
+20,P022,Bruno Rocha,653.182.241-29,Rua W 55,Centro,Sã£O Paulo,27-01-2023,Apto,-,5,4,"1.303.469,00","2840,00",
+21,P027,Maria Souza,43920841446,Rua H 70,Vila Mariana,Sã£O Paulo,2023-01-14,Casa,-,3,4,1895433,2946,Planilha
+22,P030,Marcos Oliveira,54902591705,Rua Y 98,Pinheiros,Sã£O Paulo,2023/01/20,Loft,-,1,4,"2.667.231,00","4011,00",Crm
+23,P013,Camila Freitas,736.256.344-26,Rua O 180,Pinheiros,Sã£O Paulo,31/01/2023,Casa,-,5,1,587806,754,Planilha
+24,P020,Patricia Gomes,17656360518,Rua R 110,Jardins,Sao Paulo,2023/01/01,Apartamento,232M2,4,4,-1131855,"5638,00",Crm
+25,P035,Carla Dias,576.546.945-85,Rua C 72,Itaim,Sao Paulo,21-01-2023,Casa,118M2,5,4,1038771,2712,Api
+26,P018,Joã£O Almeida,68927271989,Rua R 195,Moema,Sao Paulo,11-01-2023,Cobertura,133,-,4,1788243,5383,
+27,P036,JoãO Almeida,819.564.377-49,Rua X 50,Jardins,Sao Paulo,08/01/2023,Apartamento,164M2,2,4,2739220,3316,Api
+28,P009,Rafael Nunes,31234703205,Rua D 4,Pinheiros,Sã£O Paulo,17-01-2023,Casa,184,3,2,"1.542.547,00",615,Crm
+29,P010,Bruno Rocha,83523189616,Rua T 153,Moema,Sao Paulo,16-01-2023,Casa,73M2,4,3,-2362534,5656,
+30,P036,Carla Dias,76974909090,Rua B 60,Pinheiros,Sao Paulo,2023/01/20,Cobertura,70,4,1,2923600,"1786,00",Planilha
+31,P005,Bruno Rocha,52611197462,Rua D 120,Pinheiros,Sao Paulo,21-01-2023,Apto,141,5,4,"2.584.060,00",2676,
+32,P037,Carlos Lima,121.883.788-44,Rua P 133,Itaim,Sã£O Paulo,29/01/2023,Casa,-,4,4,-1350119,2375,Crm
+33,P036,Helena Prado,190.422.358-51,Rua V 139,Itaim,Sã£O Paulo,2023-01-11,Apartamento,204,5,3,1683296,5927,
+34,P032,Helena Prado,34523330506,Rua R 4,Vila Mariana,Sao Paulo,25/01/2023,Loft,144M2,1,4,-2603594,2859,Crm
+35,P036,Pedro Santos,22300902025,Rua Y 107,Jardins,Sao Paulo,2023/01/23,Loft,-,1,3,1446827,"4368,00",Api
+36,P021,Rafael Nunes,814.344.685-59,Rua K 191,Itaim,Sao Paulo,22-01-2023,Casa,116M2,-,2,2558970,4951,
+37,P010,Maria Souza,900.371.446-89,Rua K 173,Vila Mariana,Sã£O Paulo,31-01-2023,Loft,91M2,5,1,718221,1680,
+38,P007,Carlos Lima,48895735906,Rua L 111,Moema,Sao Paulo,22-01-2023,Casa,-,-,2,"679.078,00",5691,Planilha
+39,P030,Juliana Costa,109.923.576-46,Rua C 114,Jardins,Sao Paulo,2023/01/28,Cobertura,163M2,4,3,-2745938,4277,
+40,P026,Patricia Gomes,95515448654,Rua J 199,Moema,Sao Paulo,2023/01/13,Apartamento,287,-,2,1899557,"2918,00",
+41,P009,Bruno Rocha,402.434.865-63,Rua Z 139,Jardins,Sao Paulo,2023/01/24,Loft,-,2,3,465350,5247,
+42,P036,Patricia Gomes,25189462425,Rua L 173,Pinheiros,Sao Paulo,11-01-2023,Loft,98,-,3,"890.377,00",3755,Crm
+43,P008,Fernanda Alves,138.411.604-24,Rua M 117,Jardins,Sao Paulo,20-01-2023,Casa,-,-,2,565151,2975,
+44,P007,Ana Pereira,61799668213,Rua G 32,Itaim,Sao Paulo,20/01/2023,Cobertura,248,-,1,1854115,2434,Crm
+45,P010,Lucas Martins,31421266678,Rua Z 45,Centro,Sao Paulo,2023-01-05,Apartamento,-,1,3,1168880,2408,Planilha
+46,P024,Rafael Nunes,211.562.615-38,Rua X 169,Pinheiros,Sã£O Paulo,2023-01-06,Apartamento,175,4,4,2065636,4401,
+47,P038,Ana Pereira,71396118332,Rua D 180,Centro,Sao Paulo,30/01/2023,Casa,267,4,2,"1.651.034,00",2752,
+48,P031,Lucas Martins,951.187.195-65,Rua R 16,Jardins,Sao Paulo,2023-01-13,Casa,88M2,3,4,"2.089.977,00",1750,Crm
+49,P036,Patricia Gomes,880.385.687-38,Rua T 169,Pinheiros,Sao Paulo,12/01/2023,Apto,93,-,3,"948.985,00",1386,Api
+50,P014,Amanda Souza,564.449.261-57,Rua B 40,Moema,Sao Paulo,2023-01-28,Cobertura,113,1,3,895065,1251,
+51,P038,Carla Dias,783.415.146-38,Rua G 78,Moema,Sao Paulo,2023/01/15,Apto,252,3,1,-2448936,"4021,00",Crm
+52,P003,Helena Prado,68307441616,Rua W 164,Vila Mariana,Sã£O Paulo,2023-01-06,Casa,-,1,3,1265154,"3401,00",Planilha
+53,P020,Gabriela Lima,326.441.897-31,Rua Q 131,Moema,Sã£O Paulo,2023/01/23,Cobertura,85M2,-,2,744022,"4792,00",Planilha
+54,P037,Ana Pereira,55631973575,Rua E 113,Centro,Sã£O Paulo,07-01-2023,Cobertura,-,3,3,-616054,5644,
+55,P006,Maria Souza,18142728726,Rua Z 147,Moema,Sã£O Paulo,03-01-2023,Casa,276M2,2,1,-457736,"2851,00",
+56,P034,Ana Pereira,67498516318,Rua V 154,Centro,Sao Paulo,2023/01/27,Apartamento,-,3,1,-1023764,4086,
+57,P026,Rodrigo Mendes,97517171228,Rua E 172,Centro,Sao Paulo,24-01-2023,Casa,116,3,1,2744186,3041,Api
+58,P007,Patricia Gomes,652.955.856-77,Rua T 97,Moema,Sao Paulo,07/01/2023,Loft,214,-,2,"1.250.190,00",2923,
+59,P020,Maria Souza,91377304419,Rua O 197,Pinheiros,Sã£O Paulo,22-01-2023,Apartamento,-,2,2,1495074,2416,Api
+60,P033,Maria Souza,547.193.327-67,Rua N 14,Vila Mariana,Sao Paulo,2023/01/28,Apartamento,-,4,1,"2.463.880,00","1813,00",Api
+61,P009,Fernanda Alves,580.559.730-10,Rua I 56,Moema,Sao Paulo,30-01-2023,Apartamento,90,3,2,-877134,4370,Api
+62,P010,Ana Pereira,101.729.461-40,Rua V 172,Centro,Sao Paulo,2023/01/14,Apartamento,274,5,1,"2.396.435,00",4721,
+63,P007,Helena Prado,57435060578,Rua U 45,Itaim,Sao Paulo,13-01-2023,Cobertura,-,2,2,"368.124,00",2475,Crm
+64,P003,Marcos Oliveira,99617921191,Rua I 32,Jardins,Sã£O Paulo,07-01-2023,Cobertura,62,4,4,1623704,4948,Api
+65,P012,Juliana Costa,51493332116,Rua O 155,Vila Mariana,Sao Paulo,16-01-2023,Apto,228,4,1,-2080480,5435,Api
+66,P010,Gabriela Lima,794.900.548-14,Rua Y 166,Jardins,Sã£O Paulo,09-01-2023,Casa,-,1,2,2973921,1810,
+67,P002,Amanda Souza,44865518008,Rua W 115,Moema,Sao Paulo,2023/01/25,Cobertura,-,4,2,1839099,2544,Crm
+68,P020,Pedro Santos,828.826.817-91,Rua D 52,Moema,Sao Paulo,15-01-2023,Apartamento,128,3,3,1640448,5005,
+69,P027,Camila Freitas,70448078471,Rua V 133,Jardins,Sao Paulo,29/01/2023,Loft,73M2,2,4,1970003,4806,
+70,P034,Maria Souza,966.180.356-35,Rua U 78,Centro,Sao Paulo,17/01/2023,Casa,118,5,2,979338,3334,Planilha
+71,P017,Gabriela Lima,12744446292,Rua U 140,Pinheiros,Sao Paulo,2023/01/20,Casa,212,2,4,-640673,5754,Api
+72,P021,Marcos Oliveira,981.453.508-26,Rua K 62,Itaim,Sao Paulo,2023/01/02,Casa,265M2,2,2,2331096,1676,Crm
+73,P032,Maria Souza,18689476052,Rua Q 118,Moema,Sao Paulo,2023/01/13,Apartamento,254,1,3,1673365,2055,
+74,P026,Gabriela Lima,58080678409,Rua C 99,Itaim,Sao Paulo,2023/01/21,Loft,-,5,1,334298,2666,Planilha
+75,P009,Ana Pereira,923.585.631-68,Rua K 157,Jardins,Sao Paulo,26-01-2023,Casa,213,-,3,1134909,"829,00",
+76,P002,Lucas Martins,371.771.901-84,Rua S 123,Moema,Sao Paulo,17-01-2023,Apartamento,193M2,-,2,369780,3912,Crm
+77,P040,Rafael Nunes,993.968.853-17,Rua R 84,Itaim,Sao Paulo,04-01-2023,Apto,49M2,2,4,1615721,2170,
+78,P014,Lucas Martins,47459263293,Rua D 147,Vila Mariana,Sã£O Paulo,2023/01/22,Loft,175,2,3,"1.333.976,00",2938,Crm
+79,P036,Patricia Gomes,240.211.730-85,Rua V 136,Moema,Sao Paulo,03/01/2023,Apartamento,-,1,4,"1.375.603,00","4912,00",Api
+80,P013,Helena Prado,394.428.392-92,Rua R 190,Centro,Sao Paulo,25-01-2023,Loft,-,2,1,962452,4396,
+81,P035,Helena Prado,237.971.616-69,Rua K 42,Itaim,Sao Paulo,2023/01/24,Cobertura,188,2,1,"1.551.547,00","3244,00",Api
+82,P026,Patricia Gomes,289.243.588-51,Rua I 99,Moema,Sã£O Paulo,2023/01/25,Apto,-,3,1,2979010,4721,Api
+83,P019,Amanda Souza,70787469138,Rua N 180,Itaim,Sao Paulo,02/01/2023,Loft,278M2,2,1,969900,3047,
+84,P021,Marcos Oliveira,90388550541,Rua C 131,Itaim,Sao Paulo,12-01-2023,Apartamento,79,5,4,"2.597.007,00","4896,00",
+85,P028,Rafael Nunes,16322497674,Rua N 47,Moema,Sao Paulo,15-01-2023,Apto,51M2,4,4,1367270,"5237,00",
+86,P015,Rodrigo Mendes,68172949777,Rua H 64,Itaim,Sã£O Paulo,31/01/2023,Apto,108,2,1,1048572,1543,Crm
+87,P004,Carla Dias,145.511.549-39,Rua E 129,Pinheiros,Sao Paulo,2023/01/30,Casa,48,5,3,-582238,775,Planilha
+88,P012,Patricia Gomes,61420595035,Rua Z 135,Jardins,Sao Paulo,22-01-2023,Casa,251M2,2,3,-1454079,5346,
+89,P027,Juliana Costa,237.497.348-42,Rua O 95,Centro,Sao Paulo,16/01/2023,Apartamento,155M2,3,4,905455,5107,
+90,P013,Gabriela Lima,220.864.872-71,Rua M 62,Jardins,Sã£O Paulo,03-01-2023,Casa,151M2,5,3,1176144,"625,00",Api
+91,P027,Bruno Rocha,44429402313,Rua J 40,Moema,Sã£O Paulo,29/01/2023,Casa,294,5,2,2269185,2164,
+92,P035,Camila Freitas,655.757.160-77,Rua Y 2,Vila Mariana,Sao Paulo,22/01/2023,Apartamento,171M2,-,2,2991461,"3385,00",Crm
+93,P001,Roberto Dias,78793103630,Rua Z 46,Centro,Sao Paulo,12/01/2023,Apartamento,-,2,3,-2346209,4859,Api
+94,P006,Bruno Rocha,61941189153,Rua M 142,Itaim,Sao Paulo,2023-01-03,Cobertura,247M2,2,1,2669790,2957,
+95,P003,Carla Dias,800.387.656-82,Rua K 5,Moema,Sao Paulo,11/01/2023,Loft,88,-,4,1186747,5143,Crm
+96,P023,Patricia Gomes,93067213321,Rua Y 84,Centro,Sao Paulo,2023/01/08,Loft,209M2,4,4,886995,1142,Planilha
+97,P016,Amanda Souza,29902452765,Rua K 93,Centro,Sao Paulo,2023-01-13,Apto,-,4,3,"2.757.338,00","5567,00",Api
+98,P006,Ana Pereira,48707708214,Rua M 200,Centro,Sao Paulo,06/01/2023,Casa,-,5,2,"2.626.748,00",1234,
+99,P031,Juliana Costa,469.357.352-90,Rua O 28,Moema,Sã£O Paulo,2023-01-10,Casa,177,3,4,-565361,2760,Api
+100,P026,Marcos Oliveira,53990877390,Rua I 101,Jardins,Sao Paulo,27/01/2023,Casa,193M2,5,2,"2.830.051,00","3073,00",
